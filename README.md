@@ -17,13 +17,6 @@
 
 ---
 
-## **📌 Featured Projects**
-🔹 **[EV Charging API](#)** – A mock API for simulating EV charging sessions (Node.js, PostgreSQL, AWS).  
-🔹 **[Investment Dashboard](#)** – A Python-based dashboard fetching real-time financial data.  
-🔹 **[Microservices Boilerplate](#)** – A scalable microservices architecture with Node.js, AWS, and Docker.  
-
----
-
 ## **📫 Connect with Me**
 🔗 [LinkedIn](https://www.linkedin.com/in/matheus-nepomuceno/)  
 📧 matheus_nepo@hotmail.com  
